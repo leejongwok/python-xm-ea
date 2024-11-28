@@ -24,7 +24,7 @@ A real-time forex chart application built with Python and MetaTrader5.
 
 ## Changelog
 
-### v1.0.0 (2024-03-28)
+### v1.0.0 (2024-11-28)
 - Initial release
 - Real-time EUR/USD chart
 - Multiple timeframe support
